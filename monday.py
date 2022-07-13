@@ -16,8 +16,8 @@ from time import sleep
     Note that in a way the interface is pretty basic, it does not include basic operations such as board deletion,
     hopefully in further updates it will improve.
     
-    Please, feel free to use the interface for your personal purposes. I highly encourage you expand the features of the
-    tool and modify it for your own needs. But please do not copy and publish it without contacting me.
+    Please, feel free to use the interface for your personal purposes. I highly encourage you to expand the features 
+    of the tool and modify it for your own needs. But please do not copy and publish it without contacting me.
     If you are willing to share your new features, please contact me and I will add them to the tool (and will add 
     credit of course).
     
