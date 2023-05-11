@@ -9,13 +9,13 @@ It's purpose is to make things easier and more practical about the api usage.
 The main idea behind this approach is to create a server that uses the current interface.
 By using the interface the server can receive input from any registered Monday user, and modify the Monday workspace.
 
-The interface is currently missing some basic features such as board/groups/columns/items deletion, 
-but it has on the other hand some more advanced mechanisms such as input board.
+The interface is currently missing some basic features such as board/groups/columns/items deletions, but 
+on the other hand has some more advanced mechanisms such as input board.
 
-Please, feel free to use the interface for your personal purposes. I highly encourage you to expand the features 
-of the tool and modify it for your own needs. But please do not copy and publish it without contacting me.
-If you are willing to share your new features, please contact me and I will add them to the tool (and will add 
-credit of course).
+Please feel free to use the interface for your personal purposes. I highly encourage you to expand the features 
+of the tool and modify it for your own needs. 
+Please do not copy and publish without contacting.
+
 
 # User Guide & Example
 
